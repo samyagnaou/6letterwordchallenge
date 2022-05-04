@@ -1,0 +1,15 @@
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.csproj.AssemblyReference.cache
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.AssemblyInfoInputs.cache
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.AssemblyInfo.cs
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.csproj.CoreCompileInputs.cache
+D:\Users\samya\Desktop\lol\ConsoleWordTest\bin\Debug\net6.0\ConsoleWordTest.exe
+D:\Users\samya\Desktop\lol\ConsoleWordTest\bin\Debug\net6.0\ConsoleWordTest.deps.json
+D:\Users\samya\Desktop\lol\ConsoleWordTest\bin\Debug\net6.0\ConsoleWordTest.runtimeconfig.json
+D:\Users\samya\Desktop\lol\ConsoleWordTest\bin\Debug\net6.0\ConsoleWordTest.dll
+D:\Users\samya\Desktop\lol\ConsoleWordTest\bin\Debug\net6.0\ConsoleWordTest.pdb
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.dll
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\refint\ConsoleWordTest.dll
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.pdb
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ConsoleWordTest.genruntimeconfig.cache
+D:\Users\samya\Desktop\lol\ConsoleWordTest\obj\Debug\net6.0\ref\ConsoleWordTest.dll

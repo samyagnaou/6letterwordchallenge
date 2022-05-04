@@ -1,0 +1,5 @@
+D:\Users\samya\Desktop\lol\TestConsoleWordTest\obj\Debug\net6.0\TestConsoleWordTest.csproj.AssemblyReference.cache
+D:\Users\samya\Desktop\lol\TestConsoleWordTest\obj\Debug\net6.0\TestConsoleWordTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\samya\Desktop\lol\TestConsoleWordTest\obj\Debug\net6.0\TestConsoleWordTest.AssemblyInfoInputs.cache
+D:\Users\samya\Desktop\lol\TestConsoleWordTest\obj\Debug\net6.0\TestConsoleWordTest.AssemblyInfo.cs
+D:\Users\samya\Desktop\lol\TestConsoleWordTest\obj\Debug\net6.0\TestConsoleWordTest.csproj.CoreCompileInputs.cache
