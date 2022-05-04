@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleWordTest\ConsoleWordTest.csproj" />
+  </ItemGroup>
+
 </Project>

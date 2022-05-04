@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using ConsoleWordTest.Models;
 
 namespace TestConsoleWordTest
 {
@@ -29,5 +30,4 @@ namespace TestConsoleWordTest
             Assert.Throws<ArgumentException>(() => new WordSolution(null));
         }
     }
-}
 }
